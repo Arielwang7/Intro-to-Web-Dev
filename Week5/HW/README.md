@@ -4,7 +4,7 @@ Lets learn how to make this super delicious and easy-to-make **Basque Cheesecake
 
 ![](https://www.allrecipes.com/thmb/6ScM3qAIjP2ApcbWN7podFEAjME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/270713_BurntBasqueCheesecake_ddmfs_3x4_2411-a6030d5e7c2f4b37bc8569b9cd2b634b.jpg)
 
-Ingredients:
+## Ingredients:
 >- Cream Cheese
 >- 4 Large Eggs
 >- Whipping Cream
@@ -12,7 +12,7 @@ Ingredients:
 >- Vanilla Extract
 >- Sugar
 
-Instructions
+## Instructions:
 >1. Scrunch up baking/parchment paper and fit it into the cake pan.
 >2. Press the paper into the corners of the pan and fold the sides down over the rim.
 >3. Beat the cream cheese using a mixer until smooth then beat in the sugar.
